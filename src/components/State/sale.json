@@ -1,0 +1,25 @@
+[{
+    "img": "img/modalImgSmall/modal-card-1.png",
+    "price": "0.08",
+    "day": "2",
+    "id" : 0
+} ,
+{
+    "img": "img/modalImgSmall/modal-card-2.png",
+    "price": "0.08",
+    "day": "3",
+    "id" : 1
+} ,
+{
+    "img": "img/modalImgSmall/modal-card-3.png",
+    "price": "0.08",
+    "day": "4",
+    "id" : 2
+} ,
+{
+    "img": "img/modalImgSmall/modal-card-4.png",
+    "price": "0.08",
+    "day": "5",
+    "id" : 3
+}
+]
